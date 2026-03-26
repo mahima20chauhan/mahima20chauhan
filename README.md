@@ -13,7 +13,22 @@
 
 ## 🛠 Tech Stack
 <p>
-  Python • SQL • Machine Learning • NLP • React
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Machine Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahima20chauhan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima20chauhan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -26,8 +41,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/mahima-chauhan20  
-- 🌍 Portfolio: https://mahima-chauhan.vercel.app/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/mahima-chauhan20  
+- 🌍 Portfolio: https://mahima-chauhan.vercel.app/  
 
 ---
 
