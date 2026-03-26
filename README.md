@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 <p>
-  Python • SQL • Machine Learning • NLP • Power BI • React
+  Python • SQL • Machine Learning • NLP • React
 </p>
 
 ---
